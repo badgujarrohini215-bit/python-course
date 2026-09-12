@@ -93,7 +93,7 @@ student_results.xlsx
 
 ### Option 2 — Get Student Result
 
-The user enters a student's **Roll Number**.
+The user enters a student's Roll Number.
 
 The system searches the Excel file and displays the student's complete result.
 
