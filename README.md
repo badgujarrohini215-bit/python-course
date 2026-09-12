@@ -98,18 +98,27 @@ The user enters a student's Roll Number.
 The system searches the Excel file and displays the student's complete result.
 
 Example:
+
 ==========================================
               STUDENT RESULT
 ==========================================
 Roll No     : 101
+
 Name        : Rahul
+
 Class       : BCA
+
 ------------------------------------------
 Subject 1   : 85
+
 Subject 2   : 78
+
 Subject 3   : 92
+
 Subject 4   : 80
+
 Subject 5   : 88
+
 ------------------------------------------
 Total       : 423
 Percentage  : 84.6 %
