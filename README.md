@@ -101,7 +101,9 @@ Example:
 
 ==========================================
               STUDENT RESULT
+
 ==========================================
+
 Roll No     : 101
 
 Name        : Rahul
@@ -120,10 +122,15 @@ Subject 4   : 80
 Subject 5   : 88
 
 ------------------------------------------
+
 Total       : 423
+
 Percentage  : 84.6 %
+
 Grade       : A
+
 Status      : PASS
+
 ==========================================
 
 ### Option 3 — Show All Student Data
@@ -131,6 +138,7 @@ Status      : PASS
 Displays all stored students in a simple tabular format.
 
 Roll No   Name       Class    Total     Percentage   Grade   Status
+
 ---------------------------------------------------------------------
 101       Rahul      BCA      423       84.6         A       PASS
 102       Priya      BCA      378       75.6         B       PASS
